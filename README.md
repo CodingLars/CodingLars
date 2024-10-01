@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingLars
 - 👀 I’m interested in game development/hacking, quality of life scripts, and web development
-- 🌱 I’m currently learning C++ and Game Hacking
+- 🌱 I’m currently learning C++, Game Hacking, and Graphics Programming
 - 📫 Discord: Lars#3839 (Please send a message explaining who you are and why you added me)
 
 <!---
